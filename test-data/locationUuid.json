@@ -1,0 +1,23 @@
+"items": [
+{
+"description": "Austin Facility 1",
+"id": "c5b25733-d1c0-11ef-9175-990bff981571",
+"orgId": "c5b25730-d1c0-11ef-9175-990bff981571",
+"facilityName": "Austin Facility 1",
+"location": "71546 Myron Shoal, North Yeseniastead, TX 77836",
+"phone": "(555) 555-0001",
+"email": "monumentstoragedemo+Austinfacility1@monument.io",
+"state": "TX",
+"city": "North Yeseniastead",
+"zip": "77836",
+"organizationUuid": "c5b25730-d1c0-11ef-9175-990bff981571",
+"vacantUnits": 97,
+"timeZone": "America/Chicago",
+"facilityGroups": [
+"Midwest",
+"East Coast Remote",
+"Remote",
+"Ohio Lease Ups",
+"Tertiary",
+"Texas Lease Ups"
+]
