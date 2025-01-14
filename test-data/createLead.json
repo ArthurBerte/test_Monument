@@ -1,0 +1,15 @@
+{
+  "person": {
+    "firstName": "Arthur",
+    "lastName": "Berte",
+    "email": "test@test.com",
+    "phoneType": "HOME",
+    "isSmsEnrolled": true
+  },
+  "facilityUuid": "c5b25733-d1c0-11ef-9175-990bff981571",
+  "accountUuid": "",
+  "unitGroupUuid": "c5b25738-d1c0-11ef-9175-990bff981571",
+  "unitUuid": "c5b27e32-d1c0-11ef-9175-990bff981571",
+  "hiddenTill": "2025-01-13T19:00:50.109Z",
+  "verifyToken": "string"
+}
