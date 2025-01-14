@@ -6,7 +6,6 @@ let apiBaseURL = 'https://api.stg.monument.io/';
 let accessToken;
 let leadUuid;
 
-
 test.beforeEach('Login into Monument', async ({ request }) => {
     const response = await request.post(apiBaseURL + "auth/login", {
         headers: {
@@ -86,4 +85,5 @@ test('Verify that the lead previously created is truly dismissed', async ({ requ
     expect(responseBody.leadStatus).toBe('LOST');
     expect(responseBody.dateDismissed).toBeTruthy();
     expect(responseBody.dismissedReason).toBe('No Longer Needs Storage');
+  
 });
